@@ -8,10 +8,7 @@ int Solve(int n)
     if (n < 0)
         return 0;
     if (n == 0)
-    {
-        dp[n] = 1;
-        return dp[n];
-    }
+        return 1;
 
     if (dp[n] != -1)
         return dp[n];
@@ -20,5 +17,4 @@ int Solve(int n)
 }
 
 Console.WriteLine(Solve(n));
-
 Console.ReadLine();
