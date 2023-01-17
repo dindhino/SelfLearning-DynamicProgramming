@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinomialCoefficientPrimeFac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinomialCoefficientMI", "BinomialCoefficientMI\BinomialCoefficientMI.csproj", "{3B485134-AC85-480D-AD25-53BF277C4F9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinomialCoefficientSTE", "BinomialCoefficientSTE\BinomialCoefficientSTE.csproj", "{1A9FFFA1-170F-4FD3-ACD1-7DE366F376B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3B485134-AC85-480D-AD25-53BF277C4F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B485134-AC85-480D-AD25-53BF277C4F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B485134-AC85-480D-AD25-53BF277C4F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9FFFA1-170F-4FD3-ACD1-7DE366F376B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9FFFA1-170F-4FD3-ACD1-7DE366F376B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9FFFA1-170F-4FD3-ACD1-7DE366F376B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9FFFA1-170F-4FD3-ACD1-7DE366F376B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
